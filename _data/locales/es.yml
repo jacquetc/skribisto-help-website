@@ -1,0 +1,16 @@
+es:
+  locale_name: Español
+  nav:
+    about: Acerca de
+    contribute: Contribuir
+  index:
+    lead: El software de código abierto es desarrollado por personas como tu, aprende cómo crear y hacer que tu proyecto crezca.
+  article:
+    table_of_contents: Tabla de contenidos
+    back_to_all_guides: Volver a todas las guías
+    related_guides: Guías relacionadas
+  footer:
+    contribute:
+      heading: Contribuir
+      description: ¿Tienes alguna sugerencia? Este contenido es de código abierto. Ayúdanos a mejorarlo.
+      button: Contribuir
