@@ -1,0 +1,16 @@
+fr:
+  locale_name: Français
+  nav:
+    about: A propos
+    contribute: Contribuer
+  index:
+    lead: Un logiciel libre pour les écrivains
+  article:
+    table_of_contents: Table des matières
+    back_to_all_guides: Retour à tous les guides
+    related_guides: Pages liées
+  footer:
+    contribute:
+      heading: Contribuer
+      description: Vous souhaitez faire une suggestion ? Ce contenu est libre. Aidez-nous à l'améliorer.
+      button: Contribuer
