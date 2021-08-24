@@ -1,4 +1,12 @@
-_site
-.sass-cache
+.DS_Store
+.asset-downloads
+.bundle
 .jekyll-metadata
-Gemfile.lock
+.ruby-version
+.sass-cache/
+/vendor
+_site/
+bin
+css/main.scss
+test/node_modules
+test/package-lock.json
