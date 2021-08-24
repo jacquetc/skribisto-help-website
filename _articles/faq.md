@@ -1,14 +1,14 @@
 ---
 lang: en
-title: User manual
-description: Skribisto user manual
+title: FAQ
+description: Skribisto FAQ
 class: manual
 toc:
   test: "Test !"
 order: 2
-image: /assets/images/cards/manual.svg
+image: /assets/images/cards/faq.svg
 related:
-  - faq
+  - manual
 ---
 
 ## Test !!
