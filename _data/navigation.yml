@@ -1,0 +1,12 @@
+# main links links
+main:
+  - title: Presentation
+    url: /presentation/
+  - title: User manual
+    url: /manual/
+  - title: FAQ
+    url: /faq/
+  - title: Source
+    url: https://github.com/jacquetc/skribisto
+#- title: Theme Setup
+#  url: /theme-setup/
