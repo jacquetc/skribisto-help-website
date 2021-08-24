@@ -73,6 +73,13 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jacquetc/skribisto"
 
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "cyril_jacquet"
+
+permalink: /:title:output_ext
+
 defaults:
   # _posts
   - scope:
