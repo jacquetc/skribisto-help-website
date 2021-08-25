@@ -1,5 +1,5 @@
 ---
-lang: es
+lang: de
 title: FAQ
 description: Skribisto FAQ
 class: manual
