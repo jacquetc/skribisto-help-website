@@ -2,11 +2,11 @@
 lang: en
 title: FAQ
 description: Skribisto FAQ
-class: manual
+class: faq
 toc:
   test: "Test !"
 order: 2
-image: /assets/images/cards/faq.png
+image: /assets/images/cards/faq.svg
 related:
   - manual
 ---

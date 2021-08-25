@@ -6,7 +6,7 @@ class: manual
 toc:
   test: "Test !"
 order: 2
-image: /assets/images/cards/manual.png
+image: /assets/images/cards/manual.svg
 related:
   - faq
 ---
