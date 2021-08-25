@@ -1,15 +1,21 @@
 {% assign t = site.data.locales[page.lang][page.lang] %}
 <nav class="main-nav">
   <div class="container-lg mx-auto clearfix">
+    <div class="float-sm-left">
+                <a class="d-block p-2" href="https://github.com/jacquetc/skribisto">
+                  <img class="main-icon mb-3" alt="Skribristo" src="{{ site.baseurl }}/assets/images/skribisto.svg">
+          </a>
+    </div>
+
     <div class="float-sm-right">
       <ul class="main-links d-flex flex-wrap flex-items-stretch flex-justify-center border-left border-bottom border-sm-0 list-style-none">
         <li class="d-inline-block border-right">
-          <a class="d-block p-4" href="https://github.com/github/opensource.guide#readme">
+          <a class="d-block p-4" href="https://github.com/jacquetc/skribisto">
             {{ t.nav.about }}
           </a>
         </li>
         <li class="d-inline-block border-right">
-          <a class="d-block p-4" href="https://github.com/github/opensource.guide/blob/HEAD/CONTRIBUTING.md">
+          <a class="d-block p-4" href="https://github.com/jacquetc/skribisto-help-website">
             {{ t.nav.contribute }}
           </a>
         </li>

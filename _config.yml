@@ -28,7 +28,7 @@ defaults:
   - scope:
       path: ""
     values:
-      image: /assets/images/cards/default.png
+      image: /assets/images/skribisto.png
   - scope:
       path: ""
       type: articles
@@ -40,6 +40,7 @@ plugins:
   - jekyll-redirect-from
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jemoji
 
 sass:
   sass_dir: assets/css/
@@ -47,13 +48,33 @@ sass:
   load_paths:
     - node_modules
 
-logo: /assets/images/cards/default.png
+logo: /assets/images/skribisto.png
 
 github:
-  repository_nwo: jacquetc/skribssto
+  repository_nwo: jacquetc/skribisto
 
 twitter:
   username: github
 
 facebook:
   publisher: https://www.facebook.com/GitHub/
+
+
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false

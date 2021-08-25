@@ -25,8 +25,8 @@ layout: default
       </div>
     </nav>
     {% endif %}
-    <div class="col-sm-10 mx-auto lh-none cover-img">
-      <img src="{{ site.baseurl }}/assets/images/illos/{{ page.class }}.svg" alt="{{ page.title }}">
+    <div class="col-sm-10 mx-auto guide-cover-img text-center lh-none">
+      <img src="{{ site.baseurl }}/assets/images/cards/{{ page.class }}.svg" alt="{{ page.title }}">
     </div>
   </div>
 </header>
@@ -52,7 +52,7 @@ layout: default
       <a href="{{ article.url | relative_url }}" class="guide-cover {{ article.class }} Box height-full d-block">
 
         <div class="lh-none guide-cover-img text-center pt-4">
-          <img src="{{ site.baseurl }}/assets/images/illos/{{ article.class }}.svg" class="" alt="{{ article.title }} illustration">
+          <img src="{{ site.baseurl }}/assets/images/cards/{{ article.class }}.svg" class="" alt="{{ article.title }} illustration">
         </div>
 
         <div class="flex-self-end p-4 text-center p-lg-5">

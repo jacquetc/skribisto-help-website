@@ -17,10 +17,6 @@ layout: default
       <p class="lead-mktg text-gray mb-md-5 col-md-8 mx-auto">
         {{ t.index.lead }}
       </p>
-      <p class="lead-mktg " id="opensourcefriday" style="display:none">
-        {{ t.index.opensourcefriday }}:
-        <a href='https://opensourcefriday.com'>opensourcefriday.com</a>
-      </p>
     </div>
   </header>
 
@@ -33,7 +29,7 @@ layout: default
         <a href="{{ article.url | relative_url }}" class="guide-cover {{ article.class }} Box height-full d-block">
 
           <div class="lh-none guide-cover-img text-center pt-4">
-            <img src="{{ site.baseurl }}/assets/images/illos/{{ article.class }}.svg" class="" alt="{{ article.title }} illustration">
+            <img src="{{ site.baseurl }}/assets/images/cards/{{ article.class }}.svg" class="" alt="{{ article.title }} illustration">
           </div>
 
           <div class="flex-self-end p-4 text-center p-lg-5">

@@ -9,6 +9,8 @@ en:
     table_of_contents: Table of Contents
     back_to_all_guides: Back to all guides
     related_guides: Related Guides
+  toc:
+    toc_label: "On This Page"
   footer:
     contribute:
       heading: Contribute
