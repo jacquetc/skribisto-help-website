@@ -1,5 +1,5 @@
 ---
-lang: fr_FR
+lang: en
 title: FAQ
 description: Skribisto FAQ
 class: manual
@@ -11,7 +11,7 @@ related:
   - manual
 ---
 
-## Général
+## General
 
 This is first test.
 
@@ -30,12 +30,12 @@ A first pass of translation was done with Google Translate, so if you find error
 
 The quickest way is to double-click on the item in the list.
 
-## Texte
+## Text
 
 ### How can I change the width of the main text area ?
 On the right side, in the "Edit" tool box, click on the "A" icon with the up arrow.  A new menu appears. Use the sliders to change the text width, text size, text indent, and top margin. When finished making adjustments, click into the the left arrow or click in the main text area.
 
-## Développement
+## Development
 
 ### Where can I find the Skribisto repository?
 
