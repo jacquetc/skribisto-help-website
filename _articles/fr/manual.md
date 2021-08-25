@@ -1,5 +1,5 @@
 ---
-lang: fr_FR
+lang: fr
 title: User manual
 description: Skribisto user manual
 class: manual
