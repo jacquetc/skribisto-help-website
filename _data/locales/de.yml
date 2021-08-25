@@ -1,16 +1,16 @@
-de:
+en:
   locale_name: Deutsch
   nav:
     about: Über
     contribute: Mitarbeiten
   index:
-    lead: Open-Source-Software wird von Menschen wie Ihnen gemacht. Lernen Sie, wie Sie Ihr Projekt anfangen und ausbauen können.
+    lead: ""
   article:
     table_of_contents: Inhaltsverzeichnis
     back_to_all_guides: Zurück zur Übersicht
     related_guides: Verwandte Anleitungen
   footer:
     contribute:
-      heading: Mitmachen
-      description: Möchten Sie etwas vorschlagen? Unsere Anleitungen sind quelloffen. Helfen Sie uns, sie zu verbessern.
-      button: Mitmachen
+      heading: Mitarbeiten
+      description: "Möchten Sie etwas vorschlagen? Unsere Anleitungen sind quelloffen. Helfen Sie uns, sie zu verbessern."
+      button: Mitarbeiten
