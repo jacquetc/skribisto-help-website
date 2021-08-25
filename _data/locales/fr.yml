@@ -1,4 +1,4 @@
-en:
+fr:
   locale_name: Français
   nav:
     about: A propos
@@ -13,4 +13,4 @@ en:
     contribute:
       heading: Contribuer
       description: "Vous souhaitez faire une suggestion ? Ce contenu est libre. Aidez-nous à l'améliorer."
-      button: Contribuer
+      button: ""
