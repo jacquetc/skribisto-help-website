@@ -2,7 +2,7 @@
 <nav class="main-nav">
   <div class="container-lg mx-auto clearfix">
     <div class="float-sm-left">
-                <a class="d-block p-2" href="https://github.com/jacquetc/skribisto">
+                <a class="d-block p-2" href="https://www.skribisto.eu">
                   <img class="main-icon mb-3" alt="Skribristo" src="{{ site.baseurl }}/assets/images/skribisto.svg">
           </a>
     </div>
@@ -27,10 +27,11 @@
               {% for locale in locales %}
                 {% assign lang = locale[0] %}
                 {% assign locale_name = locale[1][lang].locale_name %}
+                {% assign locale_flag = locale[1][lang].locale_flag %}
                 {% if page.lang == lang %}
-                <option value="{{ lang }}" selected="selected">{{ locale_name }}</option>
+                <option value="{{ lang }}" selected="selected">{{ locale_flag }} {{ locale_name }}</option>
                 {% else %}
-                <option value="{{ lang }}">{{ locale_name }}</option>
+                <option value="{{ lang }}">{{ locale_flag }} {{ locale_name }}</option>
                 {% endif %}
               {% endfor %}
             </select>
