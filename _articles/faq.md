@@ -4,7 +4,10 @@ title: FAQ
 description: Skribisto FAQ
 class: faq
 toc:
-  test: "Test !"
+  general: "General"
+  navigation: "Navigation"
+  text: "Text"
+  development: "Development"
 order: 2
 image: /assets/images/cards/faq.svg
 related:
@@ -12,8 +15,6 @@ related:
 ---
 
 ## General
-
-This is first test.
 
 ### If I want more information about Skribisto, where can I ask my questions?
 

@@ -10,6 +10,3 @@ image: /assets/images/cards/manual.svg
 related:
   - faq
 ---
-
-## Test !!
-This is first test.
